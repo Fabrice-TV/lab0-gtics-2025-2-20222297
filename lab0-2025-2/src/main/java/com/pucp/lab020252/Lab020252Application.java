@@ -13,6 +13,8 @@ public class Lab020252Application {
 		for(String s : lista) {
 			System.out.println("elemento: " + s);
 		}
+
+		System.out.println("API para la creación de mascotas");
 	}
 
 }
